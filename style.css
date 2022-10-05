@@ -1,0 +1,16 @@
+body{
+    background-color: green;
+  }
+  #score{
+    font-size: 25px;
+    margin-right: 1000px;
+  }
+  #timer{
+    font-size: 25px;
+    margin-left: 25px;
+    
+  }
+  #sketch_name{
+    color: red;
+    font-size: 25px;
+  }
